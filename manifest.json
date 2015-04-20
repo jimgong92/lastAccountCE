@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "LastAccount",
-  "version": "0.1.0",
+  "version": "0.2.0",
 
   "description": "Autofill user credentials on every site with a single template",
   "icons": { 
